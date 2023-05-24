@@ -1,3 +1,5 @@
+# Простой интерфейс для отправки и получения сообщений, используя сервис https://green-api.com/
+
 # Для запуска проекта:
 1. ### `git clone https://github.com/Narboro/Simple-whatsapp-interface`
 2. ### `npm install`
